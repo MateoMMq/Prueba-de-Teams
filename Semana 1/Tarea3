@@ -1,0 +1,56 @@
+#Ejercicio 1
+#¿Cuál es la función de la memoria secundaria en una computadora?
+
+respuesta1 = "c)Almacenar información durante mucho tiempo, incluso después de ciclos de apagado y encendido"
+
+
+#Ejencicio 2
+#¿Qué es un programa?
+
+respuesta2 = "Son una secuencias o instrucciones que se ejecutan en un orden espesifico para realizar una tarea especifica"
+
+
+#Ejercicio 3
+#¿Cuál es la diferencia entre un compilado y un intérprete?
+
+respuesta3 = "El copilado traduce el programa completo un lenguaje de maquina. El interprete lo ejecula linea por linea"
+
+
+#Ejercicio 4
+#¿cual de los siguientes contiene "codigo de maquina"?
+
+respuesta4 = "c) el código fuente de pyton"
+
+
+#Ejercicio 5
+#¿Qué está mal en el codigo presentado en la diapositiva?
+
+respuesta5 = "El comando esta escrito primt, cuando deberia ser print"
+
+
+#Ejercicio 6
+#¿En qué lugar del computador queda almacenada una variable, como en este caso "x", después de ejecutar la siguiente línea de Pyton?:
+
+respuesta6 = "b) memoria principal"
+
+
+#Ejecutar 7
+#¿Qué mostrará en pantalla el siguente programa?
+
+respuesta7 = "d) Error, porque x = x + 1 no es posible matemáticamente."
+
+
+#Ejecutar 8
+#Explica cada uno de los siguientes conceptos usando un ejemplo de una capacidad humana:
+
+respuesta8 = "Unidad central de procesamiento: es la parte central de la computadora, se encarga del procesamiento de toda la maquina, como el cerebro"
+respuesta8 = "Memoria principal: es aquella que guarda la informacion del momento, con la memoria a corto plazo"
+respuesta8 = "Memoria secundaria: es la que guarda la informacion de apps y carpetas, con la memoria a corto plazo"
+respuesta8 = "Dispositivos de entrada: son los equipos que ingresan informacion al dispositivo, como los sentidos"
+respuesta8 = "Dispositivos de salida: permite la comunicación de información del dipositivo, como el hablar, gentos o la comunicación en general"
+
+
+#Ejecutar 9
+#¿Cómos puedes corregir un "Error de sintaxis"?
+
+respuesta9 = "Encontrar cualquier comando que se aya escrito de forma incorrecta y corregirlo"
